@@ -1,0 +1,15 @@
+
+body {
+	text-decoration: none;
+	font-family: sans-serif;
+	padding: 0,0,0,0;
+	margin: 0,0,0,0;
+	background-color: light-gray;
+}
+
+.welcome {
+	text-align: center;
+	margin: 30;
+	background-color: gray;
+	
+}
