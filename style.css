@@ -11,5 +11,25 @@ body {
 .welcome {
 	margin: 30;
 	background-color: gray;
+	padding: 10;
+}
+
+.menu {
+	text-decoration: none;
+	color: #111;
+	display: inline-block;
 	
+}
+
+.menu ul {	
+	list-style-type: none;
+}
+
+.menu ul li {
+	text-align: left;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #111;
 }
